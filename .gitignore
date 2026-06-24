@@ -1,0 +1,73 @@
+# Environment
+venv/
+env/
+ENV/
+.venv
+.env
+.env.local
+*.egg-info/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Data files (large datasets)
+outputs/GlobalWeatherRepository.csv
+outputs/cleaned_weather_*.csv
+outputs/*.csv
+data/
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+.~*
+
+# Large output files (but keep .gitkeep)
+figures/*.png
+figures/*.jpg
+figures/*.pdf
+outputs/model_metrics_*.csv
+outputs/cleaned_weather.csv
+
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Virtual environments
+venv/
+virtualenv/
+env/
+.venv/
