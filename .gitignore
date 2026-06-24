@@ -27,12 +27,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# Data files (large datasets)
+# Data files (large datasets - only ignore the raw input file)
 outputs/GlobalWeatherRepository.csv
-outputs/cleaned_weather_*.csv
-outputs/*.csv
 data/
-*.csv
 
 # IDE
 .vscode/
@@ -54,12 +51,8 @@ data/
 *.log
 .~*
 
-# Large output files (but keep .gitkeep)
-figures/*.png
-figures/*.jpg
-figures/*.pdf
-outputs/model_metrics_*.csv
-outputs/cleaned_weather.csv
+# Keep figures and output CSVs tracked in git
+# They showcase the project's capabilities and results
 
 # OS
 Thumbs.db
