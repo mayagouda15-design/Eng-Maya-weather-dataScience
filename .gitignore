@@ -27,8 +27,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# Data files (large datasets - only ignore the raw input file)
-outputs/GlobalWeatherRepository.csv
+# Data files (large datasets)
 data/
 
 # IDE
