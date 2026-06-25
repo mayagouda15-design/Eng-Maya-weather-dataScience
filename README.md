@@ -3,6 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+[![Live Demo](https://img.shields.io/badge/Demo-View%20on%20Google%20Drive-blue)](https://drive.google.com/file/d/1E5Ksl3X2ufhua3CNSX8dLGD6oPPuVmVS/view?usp=drive_link)
 
 > A comprehensive, production-ready data science pipeline for global weather analysis, forecasting, and climate insights using advanced machine learning techniques.
 
