@@ -556,12 +556,6 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ---
 
-## 🎥 Demo Video
-
-> *Link to be added after recording*
-
----
-
 ## 📬 Submission
 
 Submitted via [PM Accelerator Google Form](https://forms.gle/XfM3Xrzpo9sbHr4g8)
